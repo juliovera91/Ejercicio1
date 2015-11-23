@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
+
 var i = 1 ... 100
 for a in i{
     if a % 2  == 0 {  // SE VALIDA SI EL NÙMERO ES PAR
