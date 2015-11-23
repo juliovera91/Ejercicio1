@@ -16,6 +16,7 @@ for a in i{
     if a >= 30  && a <= 40{ // SE VALIDA SI SE ENCUENTRA DENTRO DEL RANGO DE 30 A 40
         print("#\(a) Viva Swift!!!")
     }
+    
 }
 
 
