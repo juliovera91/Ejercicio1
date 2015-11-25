@@ -9,7 +9,6 @@ for a in i{
     }else{ // SI NO ES IMPAR
         print("#\(a) impar!!!")
     }
-    
     if a % 5  == 0 {  // SE VALIDA SI EL NÙMERO ES DIVISIBLE ENTRE 5
         print("#\(a) Bingo!!!")
     }
