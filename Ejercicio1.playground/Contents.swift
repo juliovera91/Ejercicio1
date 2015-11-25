@@ -2,7 +2,7 @@
 
 import UIKit
 
-var i = 1 ... 100
+var i = 0 ... 100
 for a in i{
     if a % 2  == 0 {  // SE VALIDA SI EL NÙMERO ES PAR
         print("#\(a) par!!!")
